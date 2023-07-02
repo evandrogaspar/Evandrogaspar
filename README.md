@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**evandrogaspar/Evandrogaspar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there,  I'm Evandro Gaspar! 👊🏾
 
-Here are some ideas to get you started:
+### About 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m front-end developer. And I'm studying web development at @Rocketseat.
+
+
+### Tech Stack 
+
+* Techs: **HTML5** , **CSS3**,  **JavaScript**, **ReactJs**.
+* Version code control: **Git** & **Github**.
+* Tool: **Vscode**.
+
+
+## Contacts 
+
+* E-mail: fgaspar15@hotmail.com
+* LinkedIn: https://www.linkedin.com/in/evandro-gaspar
+
+
+
+
