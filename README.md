@@ -6,14 +6,14 @@
 I’m front-end developer. And I'm studying web development at @Rocketseat.
 
 
-### 🛠️ Tech Stack 
+🛠️ Tech Stack 
 
 * Techs: **HTML5** , **CSS3**,  **JavaScript**, **ReactJs**.
 * Version code control: **Git** & **Github**.
 * Tool: **Vscode**.
 
 
-##📝 Contacts 
+📝 Contacts 
 
 * E-mail: fgaspar15@hotmail.com
 * LinkedIn: https://www.linkedin.com/in/evandro-gaspar
