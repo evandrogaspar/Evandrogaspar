@@ -8,7 +8,7 @@ I’m front-end developer. And I'm studying web development at @Rocketseat.
 
 🛠️ Tech Stack 
 
-* Techs: **HTML5** , **CSS3**,  **JavaScript**, **ReactJs**.
+* **HTML5** , **CSS3**,  **JavaScript**, **ReactJs**.
 * Version code control: **Git** & **Github**.
 * Tool: **Vscode**.
 
