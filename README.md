@@ -3,7 +3,7 @@
 
 ### About 
 
-I’m front-end developer. And I'm studying web development at #Rocketseat#.
+I’m front-end developer. And I'm studying web development at *@Rocketseat.
 
 
 🛠️ Tech Stack 
